@@ -13,3 +13,5 @@ tokenizers==0.22.1
 pyarrow==22.0.0
 regex==2025.11.3
 plotly==6.5.0
+natsort==8.4.0
+simple_parsing==0.1.7
